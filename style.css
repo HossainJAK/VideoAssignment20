@@ -1,0 +1,289 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.FatherDiv {
+    width: 75%;
+    text-align: center;
+    background: linear-gradient(45deg, #fb0af3, transparent);
+    margin: 25px auto;
+}
+.menu img {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    float: left;
+    border-radius: 100px;
+    transform: translate(25px, -2px);
+}
+.Footer {
+    clear: both;
+}
+.Footer {
+    background: linear-gradient(181deg, #310896ab, transparent);
+    border-top: 2px solid #0f0fdc;
+    padding: 12px 0px;
+    margin-top: 45px;
+}
+
+.Notice {
+    margin-top: 13px;
+}
+
+.Notice ul li {
+    list-style: inside;
+    margin-bottom: 14px;
+}
+
+.menu {
+    padding-top: 15px;
+    position: relative;
+}
+
+.menu ul li {
+    display: inline-block;
+}
+
+.heading {
+    clear: both;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: white;
+    background: black;
+    padding: 10px 15px;
+    font-weight: 700;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+.menu ul {
+    position: absolute;
+    top: 55px;
+    left: 283px;
+}
+.menu img {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    float: left;
+    border-radius: 100px;
+    transform: translate(25px, -2px);
+}
+.PersonalInfo p {
+    text-align: justify;
+    width: 95%;
+    margin-top: 15px;
+}
+.PersonalInfo img:hover{
+    transform: scale(1.1);
+}
+
+.PersonalInfo h4 {
+    margin-top: 10px;
+    margin-bottom: -13px;
+}
+.menu {
+    padding-top: 15px;
+    position: relative;
+}
+
+.menu ul li {
+    display: inline-block;
+}
+
+.heading {
+    margin-top: 155px !important;
+    clear: both;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 15px;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: white;
+    background: black;
+    padding: 10px 15px;
+    font-weight: 700;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+.menu ul {
+    position: absolute;
+    top: 55px;
+    left: 283px;
+}
+
+.heading h2 {
+    background: none;
+    border: 2px solid green;
+    border-radius: 137px 5px 107px 20px/33px 5px 28px 7px;
+    padding: 2px 0px;
+    margin-bottom: 10px;
+}
+.PersonalInfo img {
+    height: 235px;
+    width: auto;
+    border: 8px solid white;
+    border-radius: 16px;
+
+}
+
+.PersonalInfo {
+    float: left;
+    width: 70%;
+    border-right: 2px solid #00000070;
+    position: relative;
+}
+
+.PersonalInfo h3 {
+    position: absolute;
+    top: 0;
+    /* size: ledger; */
+    left: 10px;
+    /* padding-bottom: 28px; */
+}
+
+.PersonalInfo img {
+    float: left;
+    margin-top: 15px;
+    margin-right: 51px;
+    margin-left: 10px;
+    transition: .6s;
+}
+
+.container {
+    border-top: 2px solid #00000073;*{
+        margin: 0;
+        padding: 0;
+    }
+    .FatherDiv {
+        width: 75%;
+        text-align: center;
+        background: linear-gradient(45deg, #fb0af3, transparent);
+        margin: 25px auto;
+    }
+    .menu img {
+        display: inline-block;
+        height: 100px;
+        width: 100px;
+        float: left;
+        border-radius: 100px;
+        transform: translate(25px, -2px);
+    }
+    
+    .menu {
+        padding-top: 15px;
+        position: relative;
+    }
+    
+    .menu ul li {
+        display: inline-block;
+    }
+    
+    .heading {
+        clear: both;
+    }
+    
+    .menu ul li a {
+        text-decoration: none;
+        color: white;
+        background: black;
+        padding: 10px 15px;
+        font-weight: 700;
+        border-radius: 5px;
+        margin: 20px;
+    }
+    
+    .menu ul {
+        position: absolute;
+        top: 55px;
+        left: 283px;
+    }
+    .menu img {
+        display: inline-block;
+        height: 100px;
+        width: 100px;
+        float: left;
+        border-radius: 100px;
+        transform: translate(25px, -2px);
+    }
+    
+    .menu {
+        padding-top: 15px;
+        position: relative;
+    }
+    
+    .menu ul li {
+        display: inline-block;
+    }
+    
+    .heading {
+        margin-top: 155px !important;
+        clear: both;
+        width: 80%;
+        margin: auto;
+        margin-bottom: 15px;
+    }
+    
+    .menu ul li a {
+        text-decoration: none;
+        color: white;
+        background: black;
+        padding: 10px 15px;
+        font-weight: 700;
+        border-radius: 5px;
+        margin: 20px;
+    }
+    
+    .menu ul {
+        position: absolute;
+        top: 55px;
+        left: 283px;
+    }
+    
+    .heading h2 {
+        background: none;
+        border: 2px solid green;
+        border-radius: 137px 5px 107px 20px/33px 5px 28px 7px;
+        padding: 2px 0px;
+        margin-bottom: 10px;
+    }
+    .PersonalInfo img {
+        height: 235px;
+        width: auto;
+        border: 8px solid white;
+        border-radius: 16px;
+    
+    }
+    
+    
+    .PersonalInfo {
+        float: left;
+        width: 70%;
+        position: relative;
+    }
+    
+    .PersonalInfo h3 {
+        position: absolute;
+        top: 0;
+        /* size: ledger; */
+        left: 10px;
+        /* padding-bottom: 28px; */
+    }
+    
+    
+    .PersonalInfo img {
+        float: left;
+        margin-top: 15px;
+        margin-right: 51px;
+        margin-left: 10px;
+    }
+    
+    .container {
+        border-top: 2px solid #00000073;
+    }
+    
